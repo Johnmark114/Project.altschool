@@ -17,4 +17,6 @@ This project, led by Ogbuinya Johnmark—a Cloud Engineering student at AltSchoo
 - Github
 - Certbot (let's encrypt SSL)
 
-  
+## steps taken to achieve my project
+- I created a dynamic landing page using html and tailwind css
+- Then i proceeded to launching my EC2 instance using Ubuntu distribution and also enabling http and https
